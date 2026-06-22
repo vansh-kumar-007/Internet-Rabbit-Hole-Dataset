@@ -30,3 +30,7 @@ Derived from the [Wikimedia Clickstream dataset](https://dumps.wikimedia.org/oth
 for English Wikipedia, May 2026. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Repository Structure
+
+## Preview
+
+![EDA Overview](https://raw.githubusercontent.com/vansh-kumar-007/Internet-Rabbit-Hole-Dataset/main/assets/eda_overview.png)
